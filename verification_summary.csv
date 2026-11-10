@@ -1,0 +1,11 @@
+metric,value
+total_cases,2722510
+class_F_count,127900
+class_B_count,2004194
+class_E_count,590416
+unclassified_cases,0
+violations_lemma0,0
+violations_lemma2,0
+violations_lemma3,0
+violations_lemma4,0
+execution_time_seconds,15.19
